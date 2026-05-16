@@ -1,4 +1,4 @@
-# 🔧 Universal .NET Defender Remover
+# 🔧 NET-Deobfuscator
 
 ![.NET](https://img.shields.io/badge/.NET-8.0-purple)
 ![Windows Forms](https://img.shields.io/badge/Windows-Forms-blue)
